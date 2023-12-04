@@ -2,3 +2,8 @@ websocket
 json_minify
 flask
 requests
+Amino.fix
+botAmino
+selenium
+yt_dlp
+easy_playlist
